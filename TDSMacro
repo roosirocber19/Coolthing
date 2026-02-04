@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/2xrW/returnhub-recorder/refs/heads/main/placer"))()
 skip()
 skip()
 place(5.974, 1.000, 11.529, "Ace Pilot", 550)
